@@ -1,6 +1,6 @@
 # Project - Portfolio Site
 
-This project consists in a Portfolio Web Site based on a modle provided by Udacity.
+This project consists in a Portfolio Web Site based on a model provided by Udacity.
 
 ## Opening the Web Site
 
