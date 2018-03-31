@@ -5,7 +5,7 @@ This project consists in a Portfolio Web Site based on a modle provided by Udaci
 ## Opening the Web Site
 
 1. Download and open the folder "Project - Portfolio Web Site";
-2. Run "index.htlm" in your favorite web browser.
+2. Run "index.html" in your favorite web browser.
 
 ## License
 
